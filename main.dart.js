@@ -30747,7 +30747,7 @@ while(true)switch(s){case 0:P.hU(b)
 p=P.bM("^s\\d",!0)
 o=P.bM("^www.",!0)
 s=3
-return P.Y(G.a4q("http://api.allorigins.win/raw?url="+H.a(b)),$async$r0)
+return P.Y(G.a4q(H.a(b)),$async$r0)
 case 3:n=a0
 m=H.b(B.a4i(U.a3m(n.e).c.a.h(0,"charset")).dj(0,n.x).split("|"),t.s)
 P.hU(m)
